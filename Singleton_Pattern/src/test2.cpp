@@ -1,4 +1,4 @@
-//implementation of singleton design patter
+//implementation of the singleton design patter
 /*
 #include<iostream>
 using namespace std;
